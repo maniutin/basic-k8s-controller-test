@@ -1,0 +1,6 @@
+apiVersion: example.com/v1
+kind: ClusterScan
+metadata:
+  name: example-scan
+spec:
+  deploymentName: clusterscan
